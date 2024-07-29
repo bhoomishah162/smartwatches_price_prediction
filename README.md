@@ -1,0 +1,1 @@
+Analyzed a dataset of smartwatch prices using Python, performing data cleaning and feature engineering. Conducted exploratory data analysis with visualizations, and applied machine learning models to classify and predict price categories and key features. Evaluated model performance with metrics such as accuracy, mean squared error, and R-squared.
